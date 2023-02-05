@@ -7,6 +7,8 @@ target 'BitriseSample' do
 
   # Pods for BitriseSample
 
+  pod 'Alamofire'
+
   target 'BitriseSampleTests' do
     inherit! :search_paths
     # Pods for testing
