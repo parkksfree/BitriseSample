@@ -21,6 +21,6 @@ final class BitriseSampleTests: XCTestCase {
         var age = 20
         age += 1
         
-        XCTAssertEqual(age, 21)
+        XCTAssertEqual(age, 22)
     }
 }
